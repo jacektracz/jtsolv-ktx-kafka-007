@@ -1,0 +1,4 @@
+{"subject":"jtsolv-user-raw-value",
+  "version":1,
+  "id":4,
+  "schema":"{\"type\":\"record\",\"name\":\"User\",\"namespace\":\"com.jtsolv.dto\",\"fields\":[{\"name\":\"id\",\"type\":\"string\"},{\"name\":\"firstName\",\"type\":\"string\"},{\"name\":\"middleName\",\"type\":\"string\",\"default\":\"\"},{\"name\":\"lastName\",\"type\":\"string\"},{\"name\":\"emailId\",\"type\":\"string\",\"default\":\"\"}]}"}
